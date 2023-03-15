@@ -1,0 +1,39 @@
+@import url();
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'press start 2P',sans-serif; 
+    color: #eee;
+    background-color:#222;
+}
+
+  /*layout  */
+
+  header{
+    position: relative;
+    height: 35vh;
+    border-bottom: 7px solid #eee;
+  }
+
+  main{
+    display: flex;
+    justify-content: space-around;
+    height: 65vh;
+    align-items: center;
+    color: #eee;
+  }
+
+
+left{
+    
+}
